@@ -1,4 +1,4 @@
- package com.smartexpense.controller;
+package com.smartexpense.controller;
 
 import com.smartexpense.dto.ExpenseDto;
 import com.smartexpense.service.ExpenseService;
